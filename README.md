@@ -2,6 +2,9 @@
 
 ##Final Project for Using Databases with Python Online Course on Coursera: Using the Google Geocoding API with a Database and Visualizing data on Google Map
 
+#Used softwares and Languages:
+Python, SQLite, JavaScript, HTML, Google Map API.
+
 
 In this project, we are using the Google geocoding API to clean up some user-entered geographic locations of university names and then placing the data(My University, AIMS Senegal) on a Google Map.
 
